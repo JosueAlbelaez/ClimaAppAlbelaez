@@ -6,7 +6,8 @@ function App() {
   return (
     <ClimaProvider>
       <header>
-        <h1>Buscador de Clima</h1>
+        <h1>Clima App ALBELÁEZ</h1>
+        <h4>Buscador de clima</h4>
       </header>
       <AppClima />
 
