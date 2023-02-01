@@ -7,7 +7,7 @@ function App() {
     <ClimaProvider>
       <header>
         <h1>Clima App ALBELÁEZ</h1>
-        <h4>Buscador de clima</h4>
+  
       </header>
       <AppClima />
 
